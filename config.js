@@ -1,15 +1,15 @@
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
-global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
-global.mail = 'support@tioprm.my.id' 
-global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = '© Tio'
-global.wait = '_*Tunggu sedang di proses...*_'
+global.owner = ['918010431346']  
+global.mods = ['918010431346'] 
+global.prems = ['918010431346']
+global.nameowner = 'Pratap'
+global.numberowner = '918010431346' 
+global.mail = 'NAHI HAI BHAI' 
+global.gc = '*KOI GROUP NHAI'
+global.instagram = 'https://instagram.com/pratap_2714'
+global.wm = '© pratap'
+global.wait = '_*Wait is being process...*_'
 global.eror = '_*Server Error*_'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
+global.stiker_wait = '*⫹⫺ Sticker is in progress...*'
 global.packname = 'Made With'
 global.author = 'Bot WhatsApp'
 
